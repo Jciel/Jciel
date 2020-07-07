@@ -20,11 +20,11 @@ In frontend development I have knowledge in Javascript, CSS3, HTML, SASS, VueJS,
 At the moment I am also studying functional programming mainly with Clojure and Elm. Mainly interested in the area of ​​web development, analysis and data processing, I like to research and test new technologies.
 
 <br>
-<br>
 
 #### Contact
+___
 
-[![link to personal site](icon-www.png)](https://jciel.github.io/)
+[![link to personal site](./icon-www.png)](https://jciel.github.io/)
 [![link to Twitter](icon-twitter.png)](https://twitter.com/MaisUmDevNoTT)
 [![link to Linkedin](icon-linkedin.png)](https://www.linkedin.com/in/jcielsouza/)
 
