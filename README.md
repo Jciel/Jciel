@@ -24,7 +24,7 @@ At the moment I am also studying functional programming mainly with Clojure and 
 #### Contact
 ___
 
-[![link to personal site](./icon-www.png)](https://jciel.github.io/)
-[![link to Twitter](./icon-twitter.png)](https://twitter.com/MaisUmDevNoTT)
-[![link to Linkedin](./icon-linkedin.png)](https://www.linkedin.com/in/jcielsouza/)
+[![link to personal site](/icon-www.png)](https://jciel.github.io/)
+[![link to Twitter](/icon-twitter.png)](https://twitter.com/MaisUmDevNoTT)
+[![link to Linkedin](/icon-linkedin.png)](https://www.linkedin.com/in/jcielsouza/)
 
