@@ -20,6 +20,21 @@ In frontend development I have knowledge in Javascript, CSS3, HTML, SASS, VueJS,
 At the moment I am also studying functional programming mainly with Clojure and Elm. Mainly interested in the area of ​​web development, analysis and data processing, I like to research and test new technologies.
 
 <br>
+<br/>
+
+<p align="center">
+   <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jciel&layout=compact&theme=tokyonight"
+    />
+  <img   
+      align="center"
+      height="165" 
+       src="https://github-readme-stats.vercel.app/api?username=Jciel&show_icons=true&theme=tokyonight"
+    />
+</p>
+
+___
 
 #### Contact
 ___
