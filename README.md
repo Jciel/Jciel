@@ -39,6 +39,7 @@ ___
 #### Contact
 ___
 
+[![link to twitch.tv](/icon-twitchtv.png)](https://www.twitch.tv/maisumdevnatwitch)
 [![link to personal site](/icon-www.png)](https://jciel.github.io/)
 [![link to Twitter](/icon-twitter.png)](https://twitter.com/MaisUmDevNoTT)
 [![link to Linkedin](/icon-linkedin.png)](https://www.linkedin.com/in/jcielsouza/)
