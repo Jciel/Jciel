@@ -6,6 +6,7 @@
 ___
 
 Hi, I'm Jociel 😄 Computer Science student always looking to learn something new :books:	, I have worked with steel structures projects using AutoCAD and Tecnometal :triangular_ruler:. I currently work as a web developer, passionate about technology and software development.   
+And I work as a freelancer ;)   
 
 <br>
 
