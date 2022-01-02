@@ -34,7 +34,7 @@ At the moment I am also studying functional programming mainly with Clojure and 
        src="https://github-readme-stats.vercel.app/api?username=Jciel&show_icons=true&theme=tokyonight"
     />
 </p>
-
+![](https://komarev.com/ghpvc/?username=Jciel&color=ee959e)
 ___
 
 #### Contact
