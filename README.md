@@ -2,7 +2,7 @@
 
 <br>
 
-### About
+### About  
 ___
 
 Hi, I'm Jociel 😄 Computer Science student always looking to learn something new :books:	, I have worked with steel structures projects using AutoCAD and Tecnometal :triangular_ruler:. I currently work as a web developer, passionate about technology and software development.   
@@ -33,8 +33,7 @@ At the moment I am also studying functional programming mainly with Clojure and 
       height="165" 
        src="https://github-readme-stats.vercel.app/api?username=Jciel&show_icons=true&theme=tokyonight"
     />
-</p>
-![](https://komarev.com/ghpvc/?username=Jciel&color=ee959e)
+</p>  
 ___
 
 #### Contact
@@ -44,4 +43,6 @@ ___
 [![link to personal site](/icon-www.png)](https://jciel.github.io/)
 [![link to Twitter](/icon-twitter.png)](https://twitter.com/MaisUmDevNoTT)
 [![link to Linkedin](/icon-linkedin.png)](https://www.linkedin.com/in/jcielsouza/)
+
+![](https://komarev.com/ghpvc/?username=Jciel)  
 
