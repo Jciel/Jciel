@@ -13,7 +13,7 @@ And I work as a freelancer ;)
 ### Work experience
 ___
 
-I have knowledge in backend development with PHP 7+, ZendFramework 3, ZendExpressive, Doctrine ORM and Doctrine ODM, MongoDB, MySQL.   
+I have knowledge in backend development with Elixr, PHP 7+, ZendFramework 3, ZendExpressive, Doctrine ORM and Doctrine ODM, MongoDB, MySQL.   
 In frontend development I have knowledge in Javascript, CSS3, HTML, SASS, VueJS, Vuex lib for application state management, Atomic Design,
 
 <br>
