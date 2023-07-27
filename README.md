@@ -5,15 +5,16 @@
 ### About  
 ___
 
-Hi, I'm Jociel 😄 Computer Science student always looking to learn something new :books:	, I have worked with steel structures projects using AutoCAD and Tecnometal :triangular_ruler:. I currently work as a web developer, passionate about technology and software development.   
+Hi, I'm Jociel 🙋🏾‍♂️  
+Professional with 8 years of experience in web development :books:, I have worked with steel structures projects using AutoCAD and Tecnometal :triangular_ruler:. Working in companies of different sizes, from small startups to large corporations. My expertise covers both backend and frontend development, with solid knowledge in object-oriented programming, design patterns and code quality.
 
 <br>
 
 ### Work experience
 ___
 
-I have knowledge in backend development with Elixr, PHP 7+, ZendFramework 3, ZendExpressive, Laravel, Doctrine ORM and Doctrine ODM, MongoDB, MySQL.   
-In frontend development I have knowledge in Javascript, CSS3, HTML, SASS, VueJS, Vuex lib for application state management, Atomic Design,
+I have knowledge in backend development with Elixr, NodeJS, PHP 7+, ZendFramework 3, ZendExpressive, Laravel, Doctrine ORM and Doctrine ODM, MongoDB, MySQL.   
+In frontend development I have knowledge in Javascript/Typescript, CSS3, HTML, SASS, VueJS, Vuex/Pinia lib for application state management, Atomic Design,
 
 <br>
 
