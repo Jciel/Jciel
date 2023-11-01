@@ -38,6 +38,9 @@ ___
 
 #### Contact
 ___
+<a href="https://app.bounties4.com/@/Jciel" target="_blank"><img title="bounties4.com/@/Jciel" alt="bounties4.com/@/Jciel" src="https://storage.googleapis.com/profile_avatar/production/647a032d82ac8d433f3db811/1698859157801_badge.png" width="400" height="400" /></a>
+
+<br/>
 
 [![link to twitch.tv](/icon-twitchtv.png)](https://www.twitch.tv/maisumdevnatwitch)
 [![link to personal site](/icon-www.png)](https://jciel.github.io/)
