@@ -13,7 +13,7 @@ Professional with 8 years of experience in web development :books:, I have worke
 ### Work experience
 ___
 
-I have knowledge in backend development with Elixr, NodeJS, PHP 7+, ZendFramework 3, ZendExpressive, Laravel, Doctrine ORM and Doctrine ODM, MongoDB, MySQL.   
+I have knowledge in backend development with Elixr, NodeJS, PHP 7+, ZendFramework 3, ZendExpressive, Laravel, Doctrine ORM and Doctrine ODM, MongoDB, PostgreSQL.   
 In frontend development I have knowledge in Javascript/Typescript, CSS3, HTML, SASS, VueJS, Vuex/Pinia lib for application state management, Atomic Design,
 
 <br>
