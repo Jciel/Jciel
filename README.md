@@ -37,7 +37,7 @@ At the moment I am also studying functional programming mainly with Clojure and 
 ___  
 
 #### Projects
-[Orbit Training](orbittraining.app)
+[Orbit Training](https://www.orbittraining.app)
 
 
 
